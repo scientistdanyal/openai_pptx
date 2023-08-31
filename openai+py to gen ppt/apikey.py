@@ -1,1 +1,1 @@
-key = "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"
+key = "" #api key
